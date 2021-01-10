@@ -1,0 +1,7 @@
+.pio
+.vscode
+include/secrets.h
+platformio.ini
+libdeps
+lib
+test
